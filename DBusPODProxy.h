@@ -1,6 +1,6 @@
 /* 
  * File:   DBusPODProxy.h
- * Author: SET - nmset@netcourrier.com
+ * Author: SET - nmset@yandex.com
  * License : GPL V2
  *
  * Created on 10 décembre 2017, 18:51

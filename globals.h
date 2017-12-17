@@ -1,6 +1,6 @@
 /* 
  * File:   globals.h
- * Author: SET - nmset@netcourrier.com
+ * Author: SET - nmset@yandex.com
  * License : GPL V2
  *
  * Created on 10 décembre 2017, 20:27
@@ -12,7 +12,7 @@
 #define _APPNAME_ "PMP7" // Pedal control for Media Player
 #define _APP_DESCRIPTION_ "Controls media playback by foot pedal"
 #define _VERSION_ "1"
-#define _AUTHOR_ "SET - nmset@netcourrier.com"
+#define _AUTHOR_ "SET - nmset@yandex.com"
 #define _ABOUT_ string(_APPNAME_) + string(" - version ") + string(_VERSION_) \
         + string(" - ") + string(_APP_DESCRIPTION_) + _DOT_ \
         + string("\nAuthor : ") + string(_AUTHOR_) \
