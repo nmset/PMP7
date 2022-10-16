@@ -9,6 +9,13 @@
 #ifndef GLOBALS_H
 #define GLOBALS_H
 
+#include <libintl.h>
+#include <string>
+using namespace std;
+
+//https://www.labri.fr/perso/fleury/posts/programming/a-quick-gettext-tutorial.html
+#define _(STRING) gettext(STRING)
+
 #define _APPNAME_ "PMP7" // Pedal control for Media Player
 #define _APP_DESCRIPTION_ "Controls media playback by foot pedal"
 #define _VERSION_ "2"

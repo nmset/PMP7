@@ -1,4 +1,6 @@
 build/
 .kdev4
 PMP7.kdev4
+Resources/Lokalize/main.lqa
+Resources/Lokalize/fr/PMP7.mo
 

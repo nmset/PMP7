@@ -1,0 +1,71 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Saleem EDAH-TALLY <set@nmset.info>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-16 17:56+0200\n"
+"PO-Revision-Date: 2022-10-16 18:05+0200\n"
+"Last-Translator: Saleem EDAH-TALLY <set@nmset.info>\n"
+"Language-Team: French <>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.2\n"
+
+#: ../../main.cpp:33
+msgid "Application signaled to exit."
+msgstr "Fin d'application signalée."
+
+#: ../../main.cpp:44
+msgid "Print help messages."
+msgstr "Afficher ceci."
+
+#: ../../main.cpp:45
+msgid "Media player : vlc, dragonplayer, xmms2..."
+msgstr "Lecteur de media : vlc, dragonplayer, xmms2..."
+
+#: ../../main.cpp:46
+msgid "Show some messages on stdout, namely, signaled pedal codes."
+msgstr ""
+"Afficher quelques messages, en particulier, les codes émis par les pédales."
+
+#: ../../main.cpp:47
+msgid "Pedal code for <PLAY> - default : 4, unsigned."
+msgstr "Code du pédalier pour <LECTURE> - défaut : 4, non signé."
+
+#: ../../main.cpp:48
+msgid "Pedal code for <FAST FORWARD> - default : 2, unsigned."
+msgstr "Code du pédalier pour <AVANCE RAPIDE> - défaut : 2, non signé."
+
+#: ../../main.cpp:49
+msgid "Pedal code for <REWIND> - default : 1, unsigned."
+msgstr "Code du pédalier pour <RETOUR ARRIÈRE> - défaut : 1, non signé."
+
+#: ../../main.cpp:50
+msgid ""
+"Automatically rewind for n milliseconds when playback stops - default : "
+"1500, unsigned."
+msgstr ""
+"Retour arrière automatique de n millisecondes à l'arrêt de la lecture -"
+" défaut : 1500, non signé."
+
+#: ../../main.cpp:71
+msgid ""
+"Declared pedal codes are inconsistent. A pedal code should identify a unique "
+"action."
+msgstr ""
+"Les codes de pédaliers déclarés sont inconsistants. Un code de pédalier doit"
+" déclencher une action unique."
+
+#: ../../main.cpp:81 ../../main.cpp:87
+msgid "Error : "
+msgstr "Erreur : "
+
+#: ../../main.cpp:124
+msgid "Could not listen to pedal events."
+msgstr "Ne peut écouter les pédaliers."
