@@ -11,7 +11,7 @@
 
 #define _APPNAME_ "PMP7" // Pedal control for Media Player
 #define _APP_DESCRIPTION_ "Controls media playback by foot pedal"
-#define _VERSION_ "1"
+#define _VERSION_ "2"
 #define _AUTHOR_ "SET - nmset@yandex.com"
 #define _ABOUT_ string(_APPNAME_) + string(" - version ") + string(_VERSION_) \
         + string(" - ") + string(_APP_DESCRIPTION_) + _DOT_ \

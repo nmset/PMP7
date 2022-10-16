@@ -2,4 +2,4 @@ PMP7 is a small utility that listens to session DBus signals sent by POD7 utilit
 
 Each pedal event can be assigned a unique action on the command line. A backend media player must be specified.
 
-Work done as a hobbyist with NetBeans, targeting GNU/Linux OS.
+Use at your own risks. Work done as a hobbyist, targeting GNU/Linux OS.
